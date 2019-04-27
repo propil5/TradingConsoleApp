@@ -33,7 +33,7 @@ namespace TradingApp
         {
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("*********** Positions with PnL");
+            Console.WriteLine("*********** Positions with PnL ***********");
 
             foreach(var position in positionsPnL)
             {
